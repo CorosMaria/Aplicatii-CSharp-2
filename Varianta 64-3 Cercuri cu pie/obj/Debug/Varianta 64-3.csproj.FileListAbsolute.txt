@@ -1,0 +1,9 @@
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-3\bin\Debug\Varianta 64-3.exe.config
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-3\bin\Debug\Varianta 64-3.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-3\bin\Debug\Varianta 64-3.pdb
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-3\obj\Debug\Varianta 64-3.csprojResolveAssemblyReference.cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-3\obj\Debug\Varianta_64_3.Form1.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-3\obj\Debug\Varianta_64_3.Properties.Resources.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-3\obj\Debug\Varianta 64-3.csproj.GenerateResource.Cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-3\obj\Debug\Varianta 64-3.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-3\obj\Debug\Varianta 64-3.pdb
